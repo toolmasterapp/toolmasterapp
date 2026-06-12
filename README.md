@@ -1,16 +1,37 @@
-## Hi there 👋
+![ToolMasterApp](https://img.shields.io/badge/ToolMasterApp-100%2B%20Privacy--First%20Tools-blue)
+# Hi, I'm Bajrang Vaishnav 👋
 
-<!--
-**toolmasterapp/toolmasterapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Creator of ToolMasterApp
 
-Here are some ideas to get you started:
+🔗 https://toolmasterapp.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build privacy-first web products using Next.js, React, Node.js, and modern web technologies.
+
+## 🛠️ What I'm Working On
+
+- ToolMasterApp – 100+ browser-based tools
+- Performance-focused web applications
+- Client-side processing for better privacy
+- Full Stack development with MERN & Next.js
+
+## ⚡ Tech Stack
+
+- Next.js
+- React
+- Node.js
+- Express.js
+- MongoDB
+- TypeScript
+- Tailwind CSS
+- Shopify
+- Laravel
+
+## 🌐 Connect With Me
+
+- Instagram: https://instagram.com/toolmasterapp.in
+- Facebook: https://facebook.com/toolmasterapp.in
+- Website: https://toolmasterapp.in
+
+---
+
+> No uploads. No tracking. Just useful tools.

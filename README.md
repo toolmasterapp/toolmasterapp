@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toolmasterapp/toolmasterapp/main/logo.jpg" width="180" alt="ToolMasterApp Logo">
+</p>
+
+<h1 align="center">ToolMasterApp 🚀</h1>
+
 ![ToolMasterApp](https://img.shields.io/badge/ToolMasterApp-100%2B%20Privacy--First%20Tools-blue)
 # Hi, I'm Bajrang Vaishnav 👋
 
